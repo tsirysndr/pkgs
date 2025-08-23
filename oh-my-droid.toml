@@ -1,0 +1,46 @@
+apt-get = ["build-essential", "curl", "git", "gawk", "wget", "unzip", "autoconf", "automake", "cmake", "tmux", "openssh-server", "openssh-client", "httpie", "code", "neofetch", "stow"]
+"ble.sh" = true
+zoxide = true
+tailscale = true
+neofetch = true
+doppler = true
+
+[stow]
+git = "github:tsirysndr/android-dotfiles"
+
+[mise]
+node = "latest"
+
+[pkgx]
+eza = "latest"
+zellij = "latest"
+rg = "latest"
+jq = "latest"
+gh = "latest"
+fzf = "latest"
+glow = "latest"
+tig = "latest"
+"neovim.io" = "latest"
+gleam = "latest"
+zig = "latest"
+
+[curl]
+bun = "https://bun.sh/install"
+deno = "https://deno.land/install.sh"
+pkgx = "https://pkgx.sh"
+oh-my-posh = "https://ohmyposh.dev/install.sh"
+atuin = "https://setup.atuin.sh"
+
+[oh_my_posh]
+theme = "tokyonight_storm"
+
+[alias]
+ls = "eza -lh"
+
+[ssh]
+port = 8022
+authorized_keys = ["ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABgQDjTkQlVM7vr3srk1XNTsJQblYT+GwjzZrBJYVvC5xbTAUPHZBMDgl3SBrhELQTBkKtl6WEKTGTYGfxpEJP94SThyDgoV0r+jTHCAFc1OevtL81Hz8whmM50qZv2VYMqMTrZUmQr6EaZRqNKkGjlKAtK3>
+
+[nix]
+
+
