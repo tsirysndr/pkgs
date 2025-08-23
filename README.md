@@ -16,7 +16,7 @@ This will install all packages, casks, and taps listed in the `Brewfile`.
 ## 📂 Contents
 
 - `Brewfile` — List of all installed brew formulas, casks, and taps.
-- `oh-my-droid.toml` - List of all installed packages on Android Linux Terminal.
+- `oh-my-droid.toml` - List of all installed Android Linux Terminal/Debian packages.
 
 ## 💡 Notes
 
