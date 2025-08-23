@@ -3,6 +3,16 @@
 This repository stores my personal [Homebrew](https://brew.sh) setup using a `Brewfile` and [Oh My Droid](https://github.com/tsirysndr/oh-my-droid) setup using a `oh-my-droid.toml`.  
 It allows me (or anyone else) to quickly reinstall and sync all my brew packages, casks, taps and linux packages across machines.
 
+## Install from Brewfile
+
+Clone this repo and run:
+
+```bash
+brew bundle --file ./Brewfile
+```
+
+This will install all packages, casks, and taps listed in the `Brewfile`.
+
 ## 📂 Contents
 
 - `Brewfile` — List of all installed brew formulas, casks, and taps.
