@@ -6,7 +6,7 @@ It allows me (or anyone else) to quickly reinstall and sync all my brew packages
 ## 📂 Contents
 
 - `Brewfile` — List of all installed brew formulas, casks, and taps.
-- `oh-my-droid.toml` - List of all installed packages on Linux.
+- `oh-my-droid.toml` - List of all installed packages on Android Linux Terminal.
 
 ## 💡 Notes
 
