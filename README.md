@@ -13,7 +13,7 @@ brew bundle --file ./Brewfile
 
 This will install all packages, casks, and taps listed in the `Brewfile`.
 
-Or:
+## Install from oh-my-droid.toml
 
 ```bash
 oh-my-droid apply github:tsirysndr/pkgs
