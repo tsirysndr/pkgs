@@ -24,12 +24,12 @@ This will install all packages listed in the `oh-my-droid.toml`.
 
 ## 📂 Contents
 
-- `Brewfile` — List of all installed brew formulas, casks, and taps.
-- `oh-my-droid.toml` - List of all installed Android Linux Terminal/Debian packages.
+- `Brewfile` - List of all installed brew formulas, casks, and taps.
+- `oh-my-droid.toml` - List of all installed Android Linux Terminal/ChromeOS/Debian packages.
 
 ## 💡 Notes
 
-- Useful for setting up a new macOS machine/Android Linux Terminal/Debian in minutes.
+- Useful for setting up a new macOS machine/Android Linux Terminal/ChromeOS/Debian in minutes.
 - Ensures consistency across multiple environments.
 
 ## 📜 License
