@@ -31,6 +31,10 @@ pkgx = "https://pkgx.sh"
 oh-my-posh = "https://ohmyposh.dev/install.sh"
 atuin = "https://setup.atuin.sh"
 
+[npm]
+"@anthropic-ai/claude-code" = "latest"
+"@google/gemini-cli" = "latest"
+
 [oh_my_posh]
 theme = "tokyonight_storm"
 
