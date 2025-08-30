@@ -42,7 +42,7 @@ theme = "tokyonight_storm"
 ls = "eza -lh"
 
 [ssh]
-port = 8022
+port = 22
 authorized_keys = ["ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABgQDjTkQlVM7vr3srk1XNTsJQblYT+GwjzZrBJYVvC5xbTAUPHZBMDgl3SBrhELQTBkKtl6WEKTGTYGfxpEJP94SThyDgoV0r+jTHCAFc1OevtL81Hz8whmM50qZv2VYMqMTrZUmQr6EaZRqNKkGjlKAtK3l7rOhrWYPh0TAt/lL7yVXy3C4m225tpPbwJSL3YT/iGny8kYYpdpS3fGVHRE8XxaSqOA7QjbRSlI2BTBAGmqhxsje0QKbVczajpVY9y5gvDz3f17YAOYqqIcI65XpF2bT5N9HuV7ulvq6OjOI2l82lBMWZ69ZlJKM+6sSbvdB9VEv5+sfTwAovcGLEnv30QImSTRpH7wOPyZoDQHoe5zWFJ2JeN5zhU7hPZbIz5AobZLqLHKVGv4LwnD12eOBXBnO8mNpj35XuTif4SPxzqUhxA3qOkRcndidMX1fbbkDQp4vcEdebyTuRftleolOsXwtOOErRJXZdLRG84c4QRU8detGghz0JTQa0aG0VAts= tsiry.sndr@rocksky.app"]
 
 [nix]
